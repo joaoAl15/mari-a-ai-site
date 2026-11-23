@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mariacai.github.io/mari-acai/sitemap.xml
